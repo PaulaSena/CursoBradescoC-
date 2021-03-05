@@ -1,0 +1,15 @@
+C:\workspaces\c#\WinFormsApp-Aula1\WinFormsApp-Aula1\bin\Debug\netcoreapp3.1\WinFormsApp-Aula1.exe
+C:\workspaces\c#\WinFormsApp-Aula1\WinFormsApp-Aula1\bin\Debug\netcoreapp3.1\WinFormsApp-Aula1.deps.json
+C:\workspaces\c#\WinFormsApp-Aula1\WinFormsApp-Aula1\bin\Debug\netcoreapp3.1\WinFormsApp-Aula1.runtimeconfig.json
+C:\workspaces\c#\WinFormsApp-Aula1\WinFormsApp-Aula1\bin\Debug\netcoreapp3.1\WinFormsApp-Aula1.runtimeconfig.dev.json
+C:\workspaces\c#\WinFormsApp-Aula1\WinFormsApp-Aula1\bin\Debug\netcoreapp3.1\WinFormsApp-Aula1.dll
+C:\workspaces\c#\WinFormsApp-Aula1\WinFormsApp-Aula1\bin\Debug\netcoreapp3.1\WinFormsApp-Aula1.pdb
+C:\workspaces\c#\WinFormsApp-Aula1\WinFormsApp-Aula1\obj\Debug\netcoreapp3.1\WinFormsApp-Aula1.csprojAssemblyReference.cache
+C:\workspaces\c#\WinFormsApp-Aula1\WinFormsApp-Aula1\obj\Debug\netcoreapp3.1\WinFormsApp_Aula1.Form1.resources
+C:\workspaces\c#\WinFormsApp-Aula1\WinFormsApp-Aula1\obj\Debug\netcoreapp3.1\WinFormsApp-Aula1.csproj.GenerateResource.cache
+C:\workspaces\c#\WinFormsApp-Aula1\WinFormsApp-Aula1\obj\Debug\netcoreapp3.1\WinFormsApp-Aula1.AssemblyInfoInputs.cache
+C:\workspaces\c#\WinFormsApp-Aula1\WinFormsApp-Aula1\obj\Debug\netcoreapp3.1\WinFormsApp-Aula1.AssemblyInfo.cs
+C:\workspaces\c#\WinFormsApp-Aula1\WinFormsApp-Aula1\obj\Debug\netcoreapp3.1\WinFormsApp-Aula1.csproj.CoreCompileInputs.cache
+C:\workspaces\c#\WinFormsApp-Aula1\WinFormsApp-Aula1\obj\Debug\netcoreapp3.1\WinFormsApp-Aula1.dll
+C:\workspaces\c#\WinFormsApp-Aula1\WinFormsApp-Aula1\obj\Debug\netcoreapp3.1\WinFormsApp-Aula1.pdb
+C:\workspaces\c#\WinFormsApp-Aula1\WinFormsApp-Aula1\obj\Debug\netcoreapp3.1\WinFormsApp-Aula1.genruntimeconfig.cache
