@@ -1,0 +1,13 @@
+C:\workspaces\c#\ConsoleApp1-Tela2\ConsoleApp1-Tela2\bin\Debug\netcoreapp3.1\ConsoleApp1-Tela2.exe
+C:\workspaces\c#\ConsoleApp1-Tela2\ConsoleApp1-Tela2\bin\Debug\netcoreapp3.1\ConsoleApp1-Tela2.deps.json
+C:\workspaces\c#\ConsoleApp1-Tela2\ConsoleApp1-Tela2\bin\Debug\netcoreapp3.1\ConsoleApp1-Tela2.runtimeconfig.json
+C:\workspaces\c#\ConsoleApp1-Tela2\ConsoleApp1-Tela2\bin\Debug\netcoreapp3.1\ConsoleApp1-Tela2.runtimeconfig.dev.json
+C:\workspaces\c#\ConsoleApp1-Tela2\ConsoleApp1-Tela2\bin\Debug\netcoreapp3.1\ConsoleApp1-Tela2.dll
+C:\workspaces\c#\ConsoleApp1-Tela2\ConsoleApp1-Tela2\bin\Debug\netcoreapp3.1\ConsoleApp1-Tela2.pdb
+C:\workspaces\c#\ConsoleApp1-Tela2\ConsoleApp1-Tela2\obj\Debug\netcoreapp3.1\ConsoleApp1-Tela2.csprojAssemblyReference.cache
+C:\workspaces\c#\ConsoleApp1-Tela2\ConsoleApp1-Tela2\obj\Debug\netcoreapp3.1\ConsoleApp1-Tela2.AssemblyInfoInputs.cache
+C:\workspaces\c#\ConsoleApp1-Tela2\ConsoleApp1-Tela2\obj\Debug\netcoreapp3.1\ConsoleApp1-Tela2.AssemblyInfo.cs
+C:\workspaces\c#\ConsoleApp1-Tela2\ConsoleApp1-Tela2\obj\Debug\netcoreapp3.1\ConsoleApp1-Tela2.csproj.CoreCompileInputs.cache
+C:\workspaces\c#\ConsoleApp1-Tela2\ConsoleApp1-Tela2\obj\Debug\netcoreapp3.1\ConsoleApp1-Tela2.dll
+C:\workspaces\c#\ConsoleApp1-Tela2\ConsoleApp1-Tela2\obj\Debug\netcoreapp3.1\ConsoleApp1-Tela2.pdb
+C:\workspaces\c#\ConsoleApp1-Tela2\ConsoleApp1-Tela2\obj\Debug\netcoreapp3.1\ConsoleApp1-Tela2.genruntimeconfig.cache
