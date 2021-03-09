@@ -1,0 +1,15 @@
+C:\workspaces\c#\CursoBradescoC#\helloWorld_WinFormsAppHelo\bin\Debug\netcoreapp3.1\helloWorld_WinFormsAppHelo.exe
+C:\workspaces\c#\CursoBradescoC#\helloWorld_WinFormsAppHelo\bin\Debug\netcoreapp3.1\helloWorld_WinFormsAppHelo.deps.json
+C:\workspaces\c#\CursoBradescoC#\helloWorld_WinFormsAppHelo\bin\Debug\netcoreapp3.1\helloWorld_WinFormsAppHelo.runtimeconfig.json
+C:\workspaces\c#\CursoBradescoC#\helloWorld_WinFormsAppHelo\bin\Debug\netcoreapp3.1\helloWorld_WinFormsAppHelo.runtimeconfig.dev.json
+C:\workspaces\c#\CursoBradescoC#\helloWorld_WinFormsAppHelo\bin\Debug\netcoreapp3.1\helloWorld_WinFormsAppHelo.dll
+C:\workspaces\c#\CursoBradescoC#\helloWorld_WinFormsAppHelo\bin\Debug\netcoreapp3.1\helloWorld_WinFormsAppHelo.pdb
+C:\workspaces\c#\CursoBradescoC#\helloWorld_WinFormsAppHelo\obj\Debug\netcoreapp3.1\helloWorld_WinFormsAppHelo.csprojAssemblyReference.cache
+C:\workspaces\c#\CursoBradescoC#\helloWorld_WinFormsAppHelo\obj\Debug\netcoreapp3.1\helloword_WinFormsAppHelo.Form1.resources
+C:\workspaces\c#\CursoBradescoC#\helloWorld_WinFormsAppHelo\obj\Debug\netcoreapp3.1\helloWorld_WinFormsAppHelo.csproj.GenerateResource.cache
+C:\workspaces\c#\CursoBradescoC#\helloWorld_WinFormsAppHelo\obj\Debug\netcoreapp3.1\helloWorld_WinFormsAppHelo.AssemblyInfoInputs.cache
+C:\workspaces\c#\CursoBradescoC#\helloWorld_WinFormsAppHelo\obj\Debug\netcoreapp3.1\helloWorld_WinFormsAppHelo.AssemblyInfo.cs
+C:\workspaces\c#\CursoBradescoC#\helloWorld_WinFormsAppHelo\obj\Debug\netcoreapp3.1\helloWorld_WinFormsAppHelo.csproj.CoreCompileInputs.cache
+C:\workspaces\c#\CursoBradescoC#\helloWorld_WinFormsAppHelo\obj\Debug\netcoreapp3.1\helloWorld_WinFormsAppHelo.dll
+C:\workspaces\c#\CursoBradescoC#\helloWorld_WinFormsAppHelo\obj\Debug\netcoreapp3.1\helloWorld_WinFormsAppHelo.pdb
+C:\workspaces\c#\CursoBradescoC#\helloWorld_WinFormsAppHelo\obj\Debug\netcoreapp3.1\helloWorld_WinFormsAppHelo.genruntimeconfig.cache
