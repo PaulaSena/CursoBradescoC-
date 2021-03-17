@@ -16,4 +16,4 @@
   - Formulario de Cadastro.
 
 ![Primeira tela](https://raw.githubusercontent.com/PaulaSena/CursoBradescoCSharp/main/img/Tela1.PNG "Cadastro")
-![Segunda tela](https://raw.githubusercontent.com/PaulaSena/CursoBradescoCSharp/main/img/Tela2console.PNG "Console")
+![Segunda tela](https://raw.githubusercontent.com/PaulaSena/CursoBradescoCSharp/main/img/tela2console.PNG "Console")
