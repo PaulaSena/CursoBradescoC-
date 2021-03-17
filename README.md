@@ -5,6 +5,7 @@
  Até o momento estou utilizando:
 
   - Windows Forms  <br>
+       - ToolBox – label, textbox e botões.
  
   - Console: Console.WriteLine("Hello World");
            Console.ReadLine();  --aguarda pressionar uma tecla exibir mensagem na tela
