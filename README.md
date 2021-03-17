@@ -5,11 +5,15 @@
  Até o momento estou utilizando:
 
   - Windows Forms  <br>
+ 
+  - Console: Console.WriteLine("Hello World");
+           Console.ReadLine();  --aguarda pressionar uma tecla exibir mensagem na tela
+
+  - MassageBox.Show("Hello World"); - Ao Clicar no botão exibe mensagem: Hello World!
   
 
 ## My First Screnn:
   - Formulario de Cadastro.
 
 ![Primeira tela](https://raw.githubusercontent.com/PaulaSena/CursoBradescoCSharp/main/img/Tela1.PNG "Cadastro")
-
- -   - ...
+![Segunda tela](https://raw.githubusercontent.com/PaulaSena/CursoBradescoCSharp/main/img/Tela2console.PNG "Console")
