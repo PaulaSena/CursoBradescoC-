@@ -15,6 +15,9 @@
 
 ## My First Screnn:
   - Formulario de Cadastro.
-
 ![Primeira tela](https://raw.githubusercontent.com/PaulaSena/CursoBradescoCSharp/main/img/Tela1.PNG "Cadastro")
+
+ - Teste Condole
 ![Segunda tela](https://raw.githubusercontent.com/PaulaSena/CursoBradescoCSharp/main/img/tela2console.PNG "Console")
+
+ - Teste Variáveis![Terceira Tela](https://raw.githubusercontent.com/PaulaSena/CursoBradescoCSharp/main/img/testeVariavel.PNG "Variaveis)
